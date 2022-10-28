@@ -1,0 +1,64 @@
+
+ID_objecto: 0
+centroide: (659, 507)
+area: 17078.0
+raio: 73.73
+perimetro: 489.24
+circularidade: 14
+temOrificio: False
+
+ID_objecto: 1
+centroide: (888, 458)
+area: 15331.5
+raio: 69.86
+perimetro: 464.17
+circularidade: 14
+temOrificio: False
+
+ID_objecto: 2
+centroide: (274, 412)
+area: 15670.5
+raio: 70.63
+perimetro: 468.52
+circularidade: 14
+temOrificio: False
+
+ID_objecto: 3
+centroide: (482, 362)
+area: 11767.0
+raio: 61.2
+perimetro: 406.82
+circularidade: 14
+temOrificio: False
+
+ID_objecto: 4
+centroide: (120, 274)
+area: 10898.5
+raio: 58.9
+perimetro: 390.58
+circularidade: 14
+temOrificio: False
+
+ID_objecto: 5
+centroide: (785, 252)
+area: 18814.5
+raio: 77.39
+perimetro: 513.97
+circularidade: 14
+temOrificio: False
+
+ID_objecto: 6
+centroide: (406, 206)
+area: 7580.0
+raio: 49.12
+perimetro: 325.22
+circularidade: 14
+temOrificio: False
+
+ID_objecto: 7
+centroide: (584, 164)
+area: 13903.5
+raio: 66.53
+perimetro: 441.2
+circularidade: 14
+temOrificio: False

@@ -1,0 +1,9 @@
+
+nome: Pessoa
+area: 1797.0
+centroide: (137, 277)
+posx: 117
+posy: 251
+largura: 41
+altura: 54
+cor: (0, 0, 255)

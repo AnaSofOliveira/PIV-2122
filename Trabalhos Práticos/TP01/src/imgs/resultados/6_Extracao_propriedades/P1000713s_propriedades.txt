@@ -1,0 +1,32 @@
+
+ID_objecto: 0
+centroide: (654, 542)
+area: 15585.5
+raio: 70.43
+perimetro: 470.86
+circularidade: 14
+temOrificio: False
+
+ID_objecto: 1
+centroide: (522, 446)
+area: 18870.0
+raio: 77.5
+perimetro: 517.24
+circularidade: 14
+temOrificio: False
+
+ID_objecto: 2
+centroide: (369, 267)
+area: 17334.5
+raio: 74.28
+perimetro: 492.66
+circularidade: 14
+temOrificio: False
+
+ID_objecto: 3
+centroide: (722, 240)
+area: 18376.0
+raio: 76.48
+perimetro: 507.04
+circularidade: 14
+temOrificio: True

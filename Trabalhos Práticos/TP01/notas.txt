@@ -1,0 +1,9 @@
+(contourSeq, [hierarchy]) = cv2.findContours(binaryImage, ...)
+area = cv2.contourArea(contourSeq[i])
+perimeter = cv2.arcLenght(contourSeq[i], 1) # 1 = indica que o contorno é fechado 
+
+
+Fecho - Para remover buracos
+Erode - Para separar objectos
+Abertura - Para separar melhor objectos
+Dilatação - Para recuperar tamanho dos objectos
