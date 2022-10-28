@@ -1,0 +1,27 @@
+
+nome: Pessoa
+area: 3618.5
+centroide: (514, 384)
+posx: 488
+posy: 341
+largura: 53
+altura: 87
+cor: (0, 0, 255)
+
+nome: Pessoa
+area: 2024.5
+centroide: (481, 304)
+posx: 459
+posy: 274
+largura: 43
+altura: 57
+cor: (0, 0, 255)
+
+nome: Carro
+area: 4402.0
+centroide: (47, 279)
+posx: 0
+posy: 251
+largura: 92
+altura: 57
+cor: (0, 255, 0)
